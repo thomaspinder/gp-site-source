@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://your_web_site/categories/</loc>
+    <loc>https://example.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://your_web_site/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://your_web_site/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
