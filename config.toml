@@ -1,6 +1,6 @@
 # config.toml
 baseURL = "https://www.gaussianprocess.co.uk/"
-title = "Gaussian Processes"
+title = "Gaussian Processes - Test"
 theme = "hugo-primer"
 languageCode = "ja"
 # If you are using Chinese, Japanese, or Korean, I highly recommend you to set this true.
