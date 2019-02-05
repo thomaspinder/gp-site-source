@@ -1,5 +1,5 @@
 # config.toml
-baseURL = "https://your_web_site"
+baseURL = "https://gaussianprocesses.co.uk"
 title = "Gaussian Processes"
 theme = "hugo-primer"
 languageCode = "ja"
