@@ -1,10 +1,10 @@
 baseurl = ""
-title = "Ghostwriter example"
+title = "Gaussian Processes"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "My Name"
-disqusShortname = "XXX"
-googleAnalytics = "XXX"
+copyright = "Thomas Pinder"
+disqusShortname = "https-www-gaussianprocess-co-uk"
+googleAnalytics = "UA-111487179-2"
 
 [Privacy]
 
@@ -17,23 +17,23 @@ googleAnalytics = "XXX"
     useSessionStorage = false
 
 [Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+    name = "Thomas Pinder"
+    profile = "https://thomaspinder.github.io/"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
+    headline = "Gaussian Processes"
+    description = "A collection of posts surrounding Gaussian Processes."
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    gplus = ""
+    twitter = ""
+    stackoverflow = ""
+    email = ""
     opengraph = true
     shareTwitter = true
     shareFacebook = true
