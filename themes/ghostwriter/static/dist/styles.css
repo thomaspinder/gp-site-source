@@ -106,7 +106,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .button-square:hover { background: #303030; }
 .error { text-align: center; }
 .comments { margin-top: 10px; }
-.site-header { padding: 40px 0 0; overflow: auto; text-align: center; text-transform: uppercase; }
+.site-header { padding: 5px 0 0; overflow: auto; text-align: center; text-transform: uppercase; }
 .site-title-wrapper { display: table; margin: 0 auto; }
 .site-title { float: left; font-size: 14px; font-weight: 600; margin: 0; text-transform: uppercase; }
 .site-title a { float: left; background: #f03838; color: #fefefe; padding: 5px 10px 6px; }
@@ -185,7 +185,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
  blockquote { margin: 30px 0; }
  pre { margin: 20px 0; }
  hr { margin: 35px 0; }
- .site-header { padding-top: 40px; }
+ .site-header { padding-top: 5px; }
  .site-title { float: none; margin-bottom: 15px; }
  .site-title a { float: none; }
  .site-title + .button-square { margin-left: 0; }
@@ -210,7 +210,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .footer .button-jump-top { clear: both; display: inline-block; float: none; }
 }
 @media only screen and (max-width: 400px) {
- .site-header { padding-top: 40px; }
+ .site-header { padding-top: 5px; }
  .post-title, .page-title, .author-name, .author-heading { font-size: 30px; line-height: 1.2; word-wrap: break-word; overflow-wrap: break-word; }
  .post-date, .blog-description, .author-meta { line-height: 1.6; }
  .post-date, .blog-description, .author-meta { margin-top: 10px; }

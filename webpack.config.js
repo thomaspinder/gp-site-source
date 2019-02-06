@@ -15,7 +15,7 @@ module.exports = {
     extensions: ['.js', '.scss'],
   },
   output: {
-    path: path.join(__dirname, 'public', 'styles'),
+    path: path.join(__dirname, 'public', 'static', 'dist'), // 'public', 'styles'),
     filename: '[name].css'
   },
   plugins: [
